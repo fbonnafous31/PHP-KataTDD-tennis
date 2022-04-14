@@ -2,15 +2,15 @@
 
 declare(strict_types=1);
 
-namespace TennisGame;
 
-use App\TennisGameTest;
-use App\TennisGame3;
+namespace Tests;
+
+use TennisGame\TennisGame3;
 
 /**
  * TennisGame1 test case.
  */
-class TennisGame3Test extends TennisGameTest
+class TennisGame3Test extends TestMaster
 {
     /**
      * Prepares the environment before running a test.

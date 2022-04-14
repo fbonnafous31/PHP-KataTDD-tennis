@@ -1,6 +1,6 @@
 <?php
 
-namespace App;;
+namespace TennisGame;;
 
 class TennisGame3 implements TennisGame
 {

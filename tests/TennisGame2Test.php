@@ -2,7 +2,8 @@
 
 declare(strict_types=1);
 
-namespace TennisGame;
+
+namespace Tests;
 
 use TennisGame\TennisGame2;
 

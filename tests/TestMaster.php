@@ -2,11 +2,12 @@
 
 declare(strict_types=1);
 
-namespace App;
+namespace Tests;
 
+use TennisGame\TennisGame;
 use PHPUnit\Framework\TestCase;
 
-abstract class TennisGameTest extends TestCase
+abstract class TestMaster extends TestCase
 {
     /**
      * @var TennisGame
